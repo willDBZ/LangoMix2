@@ -1,0 +1,15 @@
+xxx - plagiat/prendre le css de qqun d'autre
+xxx - enregistrer dans la bd bcp d'infos (text designer)
+xxx - changer mdp pour la connexion oracle
+- comment hasher mot de passe
+xxx - faire un dao pour connexion oracle?
+- page blog général aléatoirement ? 
+- fichier enregistré sur l'ordinateur
+- ce que je dois enlever (document "contrat")
+- le fichier est loadé mais on en le voie pas
+
+
+
+
+
+- pour le code css/html: mettre la source
